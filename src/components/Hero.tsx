@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { ArrowDown, Award, Eye, FolderGit2, Mail, Sparkles } from "lucide-react";
+import { ArrowDown, Award, Eye, FolderGit2, Mail } from "lucide-react";
 import { GithubIcon, LinkedinIcon } from "./icons";
 import { certificate, profile, resume, socials } from "../data/portfolio";
 import { fadeUp, stagger } from "../lib/motion";
